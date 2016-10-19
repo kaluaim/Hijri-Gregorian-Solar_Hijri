@@ -44,18 +44,18 @@ public class CalendarWebScraper
 		GREGORIAN_MONTHS_AR_TO_INDEX.put("نوفمبر", 11);
 		GREGORIAN_MONTHS_AR_TO_INDEX.put("ديسمبر", 12);
 		
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الحمل", 1);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الثور", 2);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الجوزاء", 3);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("السرطان", 4);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الأسد", 5);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("السنبلة", 6);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الميزان", 7);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("العقرب", 8);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("القوس", 9);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الجدي", 10);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الدلو", 11);
-		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الحوت", 12);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الميزان", 1);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("العقرب", 2);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("القوس", 3);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الجدي", 4);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الدلو", 5);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الحوت", 6);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الحمل", 7);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الثور", 8);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الجوزاء", 9);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("السرطان", 10);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("الأسد", 11);
+		SOLAR_HIJRI_MONTHS_AR_TO_INDEX.put("السنبلة", 12);
 	}
 	
 	public static void main(String[] args) throws Exception
